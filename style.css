@@ -1,0 +1,22 @@
+header,main{
+  background-color: #e0d3e0;
+}
+
+nav{
+  background-color: #153849;
+  opacity: 0.8;
+  font-size: 18px;
+}
+.common-color{
+  color: #11232d;
+}
+
+.name-color{
+  color: #1a713a;
+}
+
+.btn-custom{
+  position:absolute;
+  bottom: 8px;
+  right: 20px;
+}
