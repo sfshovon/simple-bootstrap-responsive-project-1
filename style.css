@@ -20,3 +20,19 @@ nav{
   bottom: 8px;
   right: 20px;
 }
+
+.panda-carousel-bg{
+  background-color: #e0d3e0;
+}
+
+.categories img{
+  width:100px;
+}
+
+.panda-button {
+  background-image: linear-gradient(to bottom, #216c84 0%, #393b4e 100%);
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+}
+
